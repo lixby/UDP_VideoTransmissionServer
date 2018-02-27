@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- FTDI Chips -->
+    <usb-device vendor-id="16981" product-id="0001"/>
+</resources>

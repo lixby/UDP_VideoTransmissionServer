@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.skylight.apollo"
+        minSdkVersion 21
+        targetSdkVersion 24
+        versionCode 37
+        versionName "0.37"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile project(':yasea')
+    compile 'org.apache.sanselan:sanselan:0.97-incubator'
+    compile 'com.android.support:design:24.2.1'
+    testCompile 'junit:junit:4.12'
+    compile files('libs/trace.jar')
+    compile files('libs/usb_v1.00.09.jar')
+    compile files('libs/kandaovr.jar')
+}

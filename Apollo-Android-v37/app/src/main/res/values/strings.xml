@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">产测工具</string>
+
+    <string name="activity_stitch">Stitching</string>
+    <string name="activity_browse">Browse</string>
+    <string name="activity_replay">Replay</string>
+
+    <string name="button_stitch">Stitch</string>
+    <string name="button_replay">Replay</string>
+
+    <string name="stitch_browse">Browse</string>
+    <string name="stitch_capture">Capture</string>
+    <string name="stitch_record">Record</string>
+    <string name="stitch_stream">Stream</string>
+    <string name="stitch_record_stop">Stop</string>
+
+    <string name="stitch_front_camera">Front Camera</string>
+    <string name="stitch_rear_camera">Rear Camera</string>
+    <string name="stitch_screenshot">Screenshot</string>
+
+    <string name="replay_mode_hand">Manual</string>
+    <string name="replay_mode_gyro">Sensor</string>
+
+    <string name="replay_projection_fisheye">Fisheye</string>
+    <string name="replay_projection_perspective">Perspective</string>
+    <string name="replay_projection_planet">Planet</string>
+
+    <string name="replay_capture">Capture</string>
+    <string name="title_activity_test">产测工具</string>
+    <string name="title_activity_stitch">CC_预览</string>
+
+    <string name="test_btn_wb">白平衡确认</string>
+    <string name="test_btn_cc">拼接（标定确认）</string>
+    <string name="title_activity_first">FirstActivity</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">产测工具</string>
+
+    <string name="activity_stitch">实时拼接</string>
+    <string name="wb">白平衡</string>
+    <string name="cc">拼接</string>
+    <string name="activity_browse">浏览</string>
+    <string name="activity_replay">回放</string>
+
+    <string name="button_stitch">拼接</string>
+    <string name="button_replay">回放</string>
+
+    <string name="stitch_browse">浏览</string>
+    <string name="stitch_capture">拍照</string>
+    <string name="stitch_record">录像</string>
+    <string name="stitch_stream">直播</string>
+    <string name="stitch_record_stop">结束</string>
+
+    <string name="replay_mode_hand">手指拖动</string>
+    <string name="replay_mode_gyro">重力感应</string>
+
+    <string name="replay_projection_fisheye">鱼眼</string>
+    <string name="replay_projection_perspective">透视</string>
+    <string name="replay_projection_planet">小行星</string>
+
+    <string name="replay_capture">截屏</string>
+</resources>
